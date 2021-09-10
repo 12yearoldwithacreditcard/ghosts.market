@@ -37,17 +37,17 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
       <h1 className="text-lg md:text-3xl">Divine Robes</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
-          There are {robes.length} bags for sale with Divine Robes. The floor
+          There are {robes.length} rare ghosts for sale. The floor
           price is {robes[0].price} ETH.
         </p>
         <p className="md:text-lg pt-2">
           Site by{' '}
           <a
             target="_blank"
-            href="https://twitter.com/worm_emoji"
+            href="https://twitter.com/12yrold_with_cc"
             className="underline"
           >
-            worm_emoji
+            12yrold_with_cc
           </a>
           . Join the{' '}
           <a
