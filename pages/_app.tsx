@@ -14,24 +14,24 @@ function Robes({ Component, pageProps }) {
         `}
       </style>
       <Head>
-        <title>alientoadz.market</title>
+        <title>ghosts.market</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600;700&display=swap"
           rel="stylesheet"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content="@kevlee97" />
-        <meta property="og:url" content="https://alientoadz.market" />
-        <meta property="og:title" content="alientoadz.market" />
+        <meta name="twitter:creator" content="@12yrold_with_cc" />
+        <meta property="og:url" content="https://ghosts.market" />
+        <meta property="og:title" content="ghosts.market" />
         <link rel="icon" type="image/png" href="/favicon.png" />
         <meta
           property="og:description"
-          content="See the floor price of Alien Toadz from the CrypToadz project."
+          content="See the floor price of Ghost Toadz from the CrypToadz project."
         />
         <meta property="og:image" content="https://alientoadz.market/og.png" />
         <script
-          data-goatcounter="https://alientoadz.goatcounter.com/count"
+          data-goatcounter="https://ghoststoadz.goatcounter.com/count"
           async
           src="//gc.zgo.at/count.js"
         ></script>
