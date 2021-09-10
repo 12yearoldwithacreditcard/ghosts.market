@@ -34,7 +34,7 @@ const Robe = ({ robe }: { robe: RobeInfo }) => {
 const IndexPage = ({ robes, lastUpdate }: Props) => {
   return (
     <div className="py-3 md:pb-0 font-mono flex flex-col justify-center items-center gap-4 pt-10 md:w-screen">
-      <h1 className="text-lg md:text-3xl">Divine Robes</h1>
+      <h1 className="text-lg md:text-3xl">Ghost Toadz</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
           There are {robes.length} rare ghosts for sale. The floor
