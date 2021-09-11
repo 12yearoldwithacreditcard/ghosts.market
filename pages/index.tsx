@@ -57,6 +57,14 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
           >
             Discord
           </a>
+          . Check out the {' '}
+          <a
+            target="_blank"
+            className="underline"
+            href="https://dune.xyz/12yearold_with_a_creditcard/CrypToadz"
+          >
+            Dashboard
+          </a>
           .
         </p>
         <p className="text-sm mv-4">Last updated {ts(lastUpdate)}</p>
