@@ -7,7 +7,7 @@ function Robes({ Component, pageProps }) {
       <style jsx global>
         {`
           body {
-            background: #000000e0;
+            background: #0000ff;
             color: white;
             overflow-x: hidden;
           }
