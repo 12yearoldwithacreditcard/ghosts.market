@@ -53,7 +53,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
           <a
             target="_blank"
             className="underline"
-            href="https://discord.gg/VkzYexY4"
+            href="https://discord.gg/6ERDYYcaZy"
           >
             Discord
           </a>
